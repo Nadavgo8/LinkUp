@@ -2,7 +2,7 @@
 LinkUp is a next-generation social networking platform designed to bring people together through meaningful connections, shared experiences, and real-time interactions. 
 Our vision: to create a digital space where authentic relationships thrive and communities thrive based on shared goals such as: studies, hobbies, etc. through innovative technology and user-centered design.
 
-[Check it out!]([url](https://linkup-client-ax9e.onrender.com/))
+[# Check it out!](https://linkup-client-ax9e.onrender.com/)
 
 *Code*
 
