@@ -4,8 +4,10 @@ Our vision: to create a digital space where authentic relationships thrive and c
 
 [Check it out!](https://linkup-client-ax9e.onrender.com/)
 
-*Code*
 
+
+*Code*
 [Server](https://github.com/Nadavgo8/LinkUp-Server/tree/main)
+
 [Client](https://github.com/Nadavgo8/LinkUp-Client/tree/main)
 
