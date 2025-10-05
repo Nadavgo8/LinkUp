@@ -7,6 +7,7 @@ Our vision: to create a digital space where authentic relationships thrive and c
 
 
 *Code*
+
 [Server](https://github.com/Nadavgo8/LinkUp-Server/tree/main)
 
 [Client](https://github.com/Nadavgo8/LinkUp-Client/tree/main)
