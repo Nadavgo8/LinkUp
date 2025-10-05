@@ -6,7 +6,7 @@ Our vision: to create a digital space where authentic relationships thrive and c
 
 
 
-*Code:*
+***Code:***
 
 [Server](https://github.com/Nadavgo8/LinkUp-Server/tree/main)
 
